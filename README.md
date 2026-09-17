@@ -1,6 +1,6 @@
 # Forest Trail Segmentation
 
-A forest trail segmentation project using PyTorch, torchvision, and OpenCV.
+A student forest trail segmentation project using PyTorch, torchvision, and OpenCV.
 It adapts a pretrained LR-ASPP model with a MobileNetV3 backbone to classify
 each pixel as trail or other, with tools for training, evaluation, and
 image or video prediction.
